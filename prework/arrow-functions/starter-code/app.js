@@ -228,3 +228,4 @@ joe.scopeArrow();
 // The Window Object
 // 3. Explain why "this" is different when an arrow function is used.
 // because the nowrmal functions always redefined  this in there scoop
+
